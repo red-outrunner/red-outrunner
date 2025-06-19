@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm @red-outrunner 👋
 
-<!--
-**red-outrunner/red-outrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Engineer passionate about coding, research, and building innovative solutions. When I'm not coding, you'll find me skateboarding, DJing, gaming, or hitting the gym.
 
-Here are some ideas to get you started:
+## 💻 Technical Stack
+- **Languages:** Go, Python
+- **Frontend:** Web Development
+- **GUI Development:** 
+  - Fyne
+  - PyQt5/PyQt6
+- **Areas of Focus:**
+  - API Development
+  - Algorithm Design
+  - Research
+  - Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project
+I'm currently working on a **news-aggregator** project. Stay tuned for updates!
+
+## 🌐 Connect with Me
+<!-- Placeholders for future social media links -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=red-outrunner&show_icons=true&theme=dark)
+
+## 🎯 Current Focus
+- Expanding my knowledge in Go and Python
+- Building robust API solutions
+- Developing intuitive GUI applications
+- Contributing to open-source projects
+
+---
+<p align="center">Last updated: 2025-06-19</p>
+
+<!-- Links -->
+[twitter]: https://twitter.com/ "Coming Soon"
+[instagram]: https://instagram.com/ "Coming Soon"
