@@ -1,7 +1,7 @@
 # Hello, I'm @red-outrunner 👋
 
 ## 🚀 About Me
-Software Engineer passionate about coding, research, and building innovative solutions. When I'm not coding, you'll find me skateboarding, DJing, gaming, or hitting the gym.
+Software Engineer coffee buzz for coding, research, and building solutions anytime I can. When I'm not coding, you'll find me skateboarding, DJing, gaming, or hitting the gym.
 
 ## 💻 Technical Stack
 - **Languages:** Go, Python
