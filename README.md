@@ -18,6 +18,9 @@ Software Engineer passionate about coding, research, and building innovative sol
 ## 🔭 Current Project
 I'm currently working on a **news-aggregator** project. Stay tuned for updates!
 
+## top languages
+[![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=red-outrunner&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Connect with Me
 <!-- Placeholders for future social media links -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
