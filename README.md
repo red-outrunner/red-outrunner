@@ -20,7 +20,7 @@ I'm currently working on a **news-aggregator** project. Stay tuned for updates!
 
 ## 🗂️ Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-outrunner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)## 🌐 Connect with Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-outrunner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Placeholders for future social media links -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
