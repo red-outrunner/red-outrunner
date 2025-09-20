@@ -1,7 +1,7 @@
 # Hello, I'm @red-outrunner (Weo Sikho Fuzile)
 
 ## 🚀 About Me
-Software Engineer coffee buzz for coding, research, and building solutions anytime I can. When I'm not coding, you'll find me skateboarding, DJing, gaming, or hitting the gym.
+Software Engineer dying passion for coding, love for research, and building solutions anytime I can. When I'm not coding, you'll find me skateboarding, DJing, gaming, or hitting the gym.
 
 ## 💻 Technical Stack
 - **Languages:** Go, Python
