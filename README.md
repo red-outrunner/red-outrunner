@@ -20,7 +20,10 @@ I'm currently working on a **news-aggregator** project. Stay tuned for updates!
 
 ## 🗂️ Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-outrunner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:language-stats-->
+<!-- The language stats will be auto-updated here by the GitHub Action -->
+<!--END_SECTION:language-stats-->
+
 <!-- Placeholders for future social media links -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
@@ -35,7 +38,7 @@ I'm currently working on a **news-aggregator** project. Stay tuned for updates!
 - Contributing to open-source projects
 
 ---
-<p align="center">Last updated: 2025-06-19</p>
+<p align="center">Last updated: 2026-02-21</p>
 
 <!-- Links -->
 [twitter]: https://twitter.com/ "Coming Soon"
